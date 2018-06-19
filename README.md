@@ -2,6 +2,6 @@
 
 
 ## Developers
-* Ben Coleman (professor)
 * Willy Brandes (student)
+* Ben Coleman (professor)
 * Alexander Haug (student)
