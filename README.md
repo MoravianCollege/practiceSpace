@@ -2,4 +2,4 @@
 
 
 ## Developers
-* Ben Coleman
+* Ben Coleman (professor)
